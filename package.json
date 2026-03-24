@@ -128,7 +128,7 @@
   "devDependencies": {
     "@biomejs/biome": "^2.3.8",
     "@formatjs/cli": "^4.2.29",
-    "@netlify/plugin-nextjs": "^5.15.1",
+    "@netlify/plugin-nextjs": "^5.15.9",
     "@rollup/plugin-alias": "^5.0.0",
     "@rollup/plugin-commonjs": "^25.0.4",
     "@rollup/plugin-json": "^6.0.0",
